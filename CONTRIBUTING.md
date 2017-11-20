@@ -9,4 +9,7 @@ Adopting standard style means ranking the importance of code clarity and communi
 We adhere to conventional commit, which you can read more about [here](https://conventionalcommits.org/) 
 We are going to be chilling with [angular commit](https://github.com/angular/angular/blob/master/CONTRIBUTING.md#commit) pattern 
 
+## WIP
+If you don’t want your **PR** to be merged accidentally, add the word "wip" or "WIP" to its title and WIP bot will set its status to error
+
 
